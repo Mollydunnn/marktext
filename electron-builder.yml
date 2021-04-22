@@ -70,7 +70,7 @@ dmg:
     type: "file"
 mac:
   artifactName: "marktext-mac.${ext}"
-  icon: "resources/icons/icon.icns"
+  icon: "resources/icons/iconSq.icns"
   darkModeSupport: true
 win:
   artifactName: "marktext-${arch}-win.${ext}"
